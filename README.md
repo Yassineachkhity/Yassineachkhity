@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm **Yassine Achkhity**, a passionate student engineer ex
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yassine-achkhity)
-- 📬 **Email**: [yassineachkhity56@gmail.com](mailto:yassine.achkhity@gmail.com)
+- 📬 **Email**: [yassineachkhity56@gmail.com](mailto:yassineachkhity56@gmail.com)
 
 ---
 
